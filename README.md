@@ -2,7 +2,7 @@
 Store all the code for y3 valuation coursework on S&amp;P 500
 
 
-![image-20230216204219620](C:\Users\AlbertCielstian\AppData\Roaming\Typora\typora-user-images\image-20230216204219620.png)
+
 
 - [ ] valuation technique: strength and weakness, factors affects the current over/under 
 - [ ] S&P 500 or FTSE 100
